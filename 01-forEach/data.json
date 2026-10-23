@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nama": "Azis", "role": "Frontend Developer" },
+  { "id": 2, "nama": "Cindy", "role": "Backend Developer" },
+  { "id": 3, "nama": "Pokonya", "role": "UI/UX Designer" }
+]
